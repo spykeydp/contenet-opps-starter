@@ -123,7 +123,7 @@ sections:
         type: FeaturedItem
       - title: 200%
         subtitle: Faster
-        text: "**Outcome:**\_AI algorithms can analyze vast amounts of website data to identify patterns, bottlenecks, and areas for improvement in the user journey. This information allows for data-driven design decisions, such as optimizing call-to-action placement, streamlining forms, and improving site navigation. My background in sales psychology tells me that understanding user behavior is critical for conversion optimization.\n\n**Factual Result:**\_This leads to higher conversion rates for desired actions, such as product purchases, sign-ups, or contact form submissions. A/B testing informed by AI insights can help fine-tune the website to maximize its effectiveness, potentially leading to a significant ROI.\n\n"
+        text: "**<sub>Outcome:</sub>**<sub>\_AI algorithms can analyze vast amounts of website data to identify patterns, bottlenecks, and areas for improvement in the user journey. This information allows for data-driven design decisions, such as optimizing call-to-action placement, streamlining forms, and improving site navigation. My background in sales psychology tells me that understanding user behavior is critical for conversion optimization.</sub>\n\n**<sub>Factual Result:</sub>**<sub>\_This leads to higher conversion rates for desired actions, such as product purchases, sign-ups, or contact form submissions. A/B testing informed by AI insights can help fine-tune the website to maximize its effectiveness, potentially leading to a significant ROI.</sub>\n"
         image:
           url: /images/icon3.svg
           altText: Featured icon three
