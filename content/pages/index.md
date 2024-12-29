@@ -101,10 +101,7 @@ sections:
               borderRadius: x-large
       - title: 20x
         subtitle: The Job Stuff
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: "**Outcome:**\_AI tools can assist in various aspects of website design and content generation. This includes image optimization, layout suggestions, color palette generation, and even drafting initial text content. As a website designer and artist, I see AI as a powerful tool that can enhance creativity and productivity. It allows designers to experiment with different styles and iterate designs much faster.\n\n**Factual Result:**\_This results in a more visually appealing and user-friendly website, potentially delivered in a shorter timeframe. AI-generated content can also improve SEO by providing fresh, relevant text, although it's crucial to refine and humanize the output for authenticity.\n\n"
         image:
           url: /images/icon2.svg
           altText: Featured icon two
