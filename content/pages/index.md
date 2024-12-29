@@ -198,7 +198,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-        fontWeight: 400
+        fontWeight: 700
     type: ImageGallerySection
   - posts:
       - content/pages/blog/case-study-1.md
