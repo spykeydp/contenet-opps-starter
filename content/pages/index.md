@@ -62,7 +62,7 @@ sections:
     subtitle: Subtitle goes here
     items:
       - type: FeaturedItem
-        title: 500k
+        title: "Benefit:\_AI-Powered Personalization for Increased Engagement"
         subtitle: ''
         text: >+
           Websites can leverage AI to analyze user behavior, preferences, and
