@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       text: Unblock your team boost your time to production
-      color: text-dark
+      color: text-light
       type: TitleBlock
     subtitle: Subtitle goes here
     text: >
@@ -37,10 +37,10 @@ sections:
       type: ImageBlock
     badge:
       label: This is a badge
-      color: text-primary
+      color: text-light
       type: Badge
     elementId: ''
-    colors: bg-light-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         alignItems: center
@@ -50,6 +50,14 @@ sections:
           - pl-16
           - pb-16
           - pr-16
+    backgroundImage:
+      type: BackgroundImage
+      altText: altText of the image
+      backgroundSize: auto
+      backgroundPosition: center
+      backgroundRepeat: no-repeat
+      opacity: 40
+      url: /images/EYe.png
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
@@ -94,7 +102,6 @@ sections:
           type: ImageBlock
           altText: Lightning bolt symbol on red background
           elementId: ''
-          url: /images/icon1.svg
           styles:
             self:
               borderRadius: x-large
@@ -102,7 +109,6 @@ sections:
         subtitle: The Job Stuff
         text: "**<sub>Outcome:</sub>**<sub>\_AI tools can assist in various aspects of website design and content generation. This includes image optimization, layout suggestions, color palette generation, and even drafting initial text content. As a website designer and artist, I see AI as a powerful tool that can enhance creativity and productivity. It allows designers to experiment with different styles and iterate designs much faster.</sub>\n\n**<sub>Factual Result:</sub>**<sub>\_This results in a more visually appealing and user-friendly website, potentially delivered in a shorter timeframe. AI-generated content can also improve SEO by providing fresh, relevant text, although it's crucial to refine and humanize the output for authenticity.</sub>\n"
         image:
-          url: /images/icon2.svg
           altText: Featured icon two
           elementId: ''
           type: ImageBlock
@@ -123,11 +129,6 @@ sections:
       - title: 200%
         subtitle: Faster
         text: "**<sub>Outcome:</sub>**<sub>\_AI algorithms can analyze vast amounts of website data to identify patterns, bottlenecks, and areas for improvement in the user journey. This information allows for data-driven design decisions, such as optimizing call-to-action placement, streamlining forms, and improving site navigation. My background in sales psychology tells me that understanding user behavior is critical for conversion optimization.</sub>\n\n**<sub>Factual Result:</sub>**<sub>\_This leads to higher conversion rates for desired actions, such as product purchases, sign-ups, or contact form submissions. A/B testing informed by AI insights can help fine-tune the website to maximize its effectiveness, potentially leading to a significant ROI.</sub>\n"
-        image:
-          url: /images/icon3.svg
-          altText: Featured icon three
-          elementId: ''
-          type: ImageBlock
         actions: []
         colors: bg-neutralAlt-fg-dark
         styles:
@@ -151,8 +152,8 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: This is a badge
-      color: text-primary
+      label: ''
+      color: text-neutral
       styles:
         self:
           textAlign: center
@@ -746,7 +747,7 @@ sections:
     colors: bg-light-fg-dark
     type: GenericSection
 seo:
-  metaTitle: Home - Demo site
+  metaTitle: Home
   metaDescription: This demo site is built with Netlify Create.
   socialImage: /images/main-hero.jpg
   type: Seo
