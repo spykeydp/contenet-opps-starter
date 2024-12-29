@@ -1,5 +1,5 @@
 ---
-title: The Top Ten Lessons We’ve Learned Since Our Initial Launch
+title: AI Automation Agent workforce can run your whole business
 slug: top-ten-lessons-we-learned
 date: '2024-08-25'
 excerpt: >-
