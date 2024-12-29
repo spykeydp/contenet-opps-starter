@@ -1,6 +1,6 @@
 {
     "type": "Person",
-    "name": "Nina Mercado",
+    "name": "KB spykey",
     "role": "Co-founder & CEO",
     "image": {
         "url": "/images/avatar4.svg",
@@ -33,5 +33,5 @@
             "justifyContent": "center"
         }
     },
-    "bio": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.\n"
+    "bio": "Co-founder & CEO of [spykeydp](https://github.com/spykeydp)\n"
 }

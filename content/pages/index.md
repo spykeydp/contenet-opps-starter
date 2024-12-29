@@ -32,7 +32,6 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/main-hero.svg
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
@@ -62,12 +61,21 @@ sections:
     subtitle: Subtitle goes here
     items:
       - type: FeaturedItem
-        title: 500k
-        subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        title: "Benefit:\_AI-Powered Personalization for Increased Engagement"
+        subtitle: ''
+        text: >
+          *<sub>Websites can leverage AI to analyze user behavior, preferences,
+          and demographics in real-time. This enables dynamic content
+          adjustments, tailored product recommendations, and personalized user
+          journeys. As a sales psychologist, I know that personalization
+          significantly enhances the user experience, making visitors feel
+          understood and valued.</sub>*
+
+
+          *<sub>This leads to higher engagement metrics like increased time on
+          site, more page views, and a reduced bounce rate. Studies have shown
+          that personalized experiences can boost sales by 10-15% and increase
+          customer satisfaction.</sub>*
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
@@ -92,10 +100,7 @@ sections:
               borderRadius: x-large
       - title: 20x
         subtitle: The Job Stuff
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: "**<sub>Outcome:</sub>**<sub>\_AI tools can assist in various aspects of website design and content generation. This includes image optimization, layout suggestions, color palette generation, and even drafting initial text content. As a website designer and artist, I see AI as a powerful tool that can enhance creativity and productivity. It allows designers to experiment with different styles and iterate designs much faster.</sub>\n\n**<sub>Factual Result:</sub>**<sub>\_This results in a more visually appealing and user-friendly website, potentially delivered in a shorter timeframe. AI-generated content can also improve SEO by providing fresh, relevant text, although it's crucial to refine and humanize the output for authenticity.</sub>\n"
         image:
           url: /images/icon2.svg
           altText: Featured icon two
@@ -117,10 +122,7 @@ sections:
         type: FeaturedItem
       - title: 200%
         subtitle: Faster
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: "**<sub>Outcome:</sub>**<sub>\_AI algorithms can analyze vast amounts of website data to identify patterns, bottlenecks, and areas for improvement in the user journey. This information allows for data-driven design decisions, such as optimizing call-to-action placement, streamlining forms, and improving site navigation. My background in sales psychology tells me that understanding user behavior is critical for conversion optimization.</sub>\n\n**<sub>Factual Result:</sub>**<sub>\_This leads to higher conversion rates for desired actions, such as product purchases, sign-ups, or contact form submissions. A/B testing informed by AI insights can help fine-tune the website to maximize its effectiveness, potentially leading to a significant ROI.</sub>\n"
         image:
           url: /images/icon3.svg
           altText: Featured icon three
@@ -198,6 +200,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+        fontWeight: 700
     type: ImageGallerySection
   - posts:
       - content/pages/blog/case-study-1.md
@@ -409,10 +412,9 @@ sections:
           left to add, but when there is nothing left to take away.”
         tagline: Testimonial 1
         subtitle: 'Maria Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |+
+
+
         image:
           url: /images/person-placeholder-light.png
           altText: Maria Walters
@@ -435,7 +437,8 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design is a plan for arranging elements in such a way as best to accomplish a particular purpose."
+          "Design is a plan for arranging elements in such a way as best to
+          accomplish a particular purpose."
         tagline: Testimonial 2
         subtitle: 'John Doe, Company'
         text: >-
@@ -464,7 +467,8 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design is how it works, how it functions. Good design doesn't just make a product aesthetically pleasing, it makes it a pleasure to use."
+          "Design is how it works, how it functions. Good design doesn't just
+          make a product aesthetically pleasing, it makes it a pleasure to use."
         tagline: Testimonial 3
         subtitle: 'Maria Walters, Company'
         text: >-
@@ -523,7 +527,8 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design can be art. Design can be aesthetics. Design is so simple, that's why it is so complicated."
+          "Design can be art. Design can be aesthetics. Design is so simple,
+          that's why it is so complicated."
         tagline: Testimonial 5
         subtitle: 'Jane Walters, Company'
         text: >-
@@ -552,7 +557,8 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          “Quote from some important person goes right here. I love using Netlify Create.”
+          “Quote from some important person goes right here. I love using
+          Netlify Create.”
         tagline: Testimonial 6
         subtitle: 'Jane Doe, Company'
         text: >-
@@ -646,8 +652,9 @@ sections:
       - title: Feature Item Three
         tagline: This is the tagline
         subtitle: This is the item subtitle
-        text: |
-          Learn from the tutorial and build your first awesome Netlify Create site.
+        text: >
+          Learn from the tutorial and build your first awesome Netlify Create
+          site.
         image:
           url: /images/abstract-feature1.svg
           altText: Placeholder image
