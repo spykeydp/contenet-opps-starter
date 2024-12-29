@@ -3,9 +3,13 @@ title: 'AI automation for businesses, save 15+ hours a week'
 slug: life-of-our-development-team
 date: '2023-03-27'
 excerpt: >-
-  Vel repellat dolores ut unde voluptatum ut optio voluptates est aliquid. Ut
-  earum corporis id Quis esse est galisum officiis accusantium enim et
-  asperiores dolore.
+  Think of it this way. You've got your chatbot. It's got its fancy NLP ready to
+  understand those user requests. Okay. And then you've got your calendar
+  system. That's storing all those precious appointments, right?The API is the
+  messenger that lets these two worlds communicate.Okay, so if I'm using, say,
+  Google Calendar, I need to find their API documentation and figure out how to
+  let my chatbot access it.Exactly. And that's actually where things can get a
+  little tricky. You'll need to handle things like authentication.
 featuredImage:
   url: /images/abstract-feature3.svg
   altText: Thumbnail
