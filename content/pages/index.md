@@ -414,10 +414,7 @@ sections:
         tagline: Testimonial 1
         subtitle: 'Maria Walters, Company'
         text: |+
-          ```
 
-
-          ```
 
         image:
           url: /images/person-placeholder-light.png
