@@ -56,7 +56,7 @@ sections:
       backgroundSize: auto
       backgroundPosition: center
       backgroundRepeat: no-repeat
-      opacity: 55
+      opacity: 74
       url: /images/EYe.png
   - type: FeaturedItemsSection
     title:
