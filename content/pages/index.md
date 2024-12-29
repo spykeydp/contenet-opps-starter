@@ -57,7 +57,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 55
-      url: /images/day of dead image.png
+      url: /images/EYe.png
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
