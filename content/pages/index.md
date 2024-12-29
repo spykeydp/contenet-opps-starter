@@ -65,17 +65,18 @@ sections:
         title: "Benefit:\_AI-Powered Personalization for Increased Engagement"
         subtitle: ''
         text: >
-          *Websites can leverage AI to analyze user behavior, preferences, and
-          demographics in real-time. This enables dynamic content adjustments,
-          tailored product recommendations, and personalized user journeys. As a
-          sales psychologist, I know that personalization significantly enhances
-          the user experience, making visitors feel understood and valued.*
+          *<sub>Websites can leverage AI to analyze user behavior, preferences,
+          and demographics in real-time. This enables dynamic content
+          adjustments, tailored product recommendations, and personalized user
+          journeys. As a sales psychologist, I know that personalization
+          significantly enhances the user experience, making visitors feel
+          understood and valued.</sub>*
 
 
-          *This leads to higher engagement metrics like increased time on site,
-          more page views, and a reduced bounce rate. Studies have shown that
-          personalized experiences can boost sales by 10-15% and increase
-          customer satisfaction.*
+          *<sub>This leads to higher engagement metrics like increased time on
+          site, more page views, and a reduced bounce rate. Studies have shown
+          that personalized experiences can boost sales by 10-15% and increase
+          customer satisfaction.</sub>*
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
