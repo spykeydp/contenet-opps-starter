@@ -159,9 +159,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: >-
-        [![Netlify
-        Status](https://api.netlify.com/api/v1/badges/432bf9d9-b328-43a6-bcaa-c005c3649c18/deploy-status)](https://app.netlify.com/sites/jointify/deploys)
+      label: ''
       color: text-neutral
       styles:
         self:
