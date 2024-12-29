@@ -63,7 +63,7 @@ sections:
     items:
       - type: FeaturedItem
         title: 500k
-        subtitle: Numbers Done
+        subtitle: ''
         text: >+
           Websites can leverage AI to analyze user behavior, preferences, and
           demographics in real-time. This enables dynamic content adjustments,
