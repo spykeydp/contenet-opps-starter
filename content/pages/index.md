@@ -56,7 +56,7 @@ sections:
       backgroundSize: auto
       backgroundPosition: center
       backgroundRepeat: no-repeat
-      opacity: 29
+      opacity: 55
       url: /images/day of dead image.png
   - type: FeaturedItemsSection
     title:
