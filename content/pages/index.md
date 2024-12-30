@@ -57,7 +57,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 40
-      url: /images/EYe.png
+      url: /images/tl(81).webp
   - type: PricingSection
     title:
       type: TitleBlock
