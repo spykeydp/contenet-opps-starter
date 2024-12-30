@@ -57,7 +57,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 40
-      url: /images/tl(81).webp
+      url: /images/abstract-feature3.svg
   - type: PricingSection
     title:
       type: TitleBlock
