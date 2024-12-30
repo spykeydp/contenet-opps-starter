@@ -1,12 +1,15 @@
 {
     "logo": {
-        "url": "/images/icon3.svg",
+        "url": "/images/Untitled (320 x 132 px).png",
         "altText": "Logo dark",
         "styles": {
             "self": {
                 "margin": [
                     "mr-3"
-                ]
+                ],
+                "borderRadius": "medium",
+                "borderWidth": 2,
+                "borderStyle": "double"
             }
         },
         "type": "ImageBlock"
