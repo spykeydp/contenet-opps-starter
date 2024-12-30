@@ -56,7 +56,7 @@ sections:
       backgroundSize: cover
       backgroundPosition: center
       backgroundRepeat: no-repeat
-      opacity: 0
+      opacity: 100
   - type: PricingSection
     title:
       type: TitleBlock
