@@ -28,7 +28,7 @@ sections:
         showIcon: true
         icon: arrowRight
         iconPosition: left
-        style: primary
+        style: secondary
         elementId: ''
         type: Link
     media:
