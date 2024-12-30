@@ -7,7 +7,7 @@
                 "margin": [
                     "mr-3"
                 ],
-                "borderRadius": "x-small"
+                "borderRadius": "medium"
             }
         },
         "type": "ImageBlock"
